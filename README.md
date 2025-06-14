@@ -40,7 +40,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@108.162.198.20:8880?allowInsecure=0
 vless://897a4bec-26b8-11e8-94be-00505695472c@bestcf.030101.xyz:443?allowInsecure=1&sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&path=/bbs?ed=2048security=tls#3%7C%F0%9F%87%BA%F0%9F%87%B850%20%7C%20%201.3MB/s%7C20%25%7CDisney%7COpe...
 vless://e74c23fa-44c0-425e-812d-5e2df4487ced@www.speedtest.net:8880?allowInsecure=1&sni=de-snapp23.academigroup.ir.&type=ws&host=de-snapp23.academigroup.ir.&path=/telegram---Academi_vpn--telegram--Academi_vpn--telegram--Academi_vpn--telegram--Academi_vpn--telegram----Academi_vpn--Mystic_vpn?ed=2048#3%7C%F0%9F%87%A9%F0%9F%87%AA4%20%7C%20%202.8MB/s%7C13%25%7CNetflix%7CYou...
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.0.63.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#3%7C%F0%9F%87%A6%F0%9F%87%AA1%20%7C%20%201.2MB/s%7C0%25%7CDisney%7COpena...
-vless://7f93e196-1b2f-4a42-8051-5815554c05db@3.88.50.22:443?allowInsecure=1&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#3%7C%F0%9F%87%BA%F0%9F%87%B851%20%7C%20%203.5MB/s%7C30%25%7COpenai
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.197:8880?allowInsecure=0&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#3%7C%F0%9F%87%BA%F0%9F%87%B853%20%7C%20%201.9MB/s%7C61%25%7CDisney
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.239:8880?allowInsecure=0&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#3%7C%F0%9F%87%BA%F0%9F%87%B861%20%7C%20%201.0MB/s%7CDisney
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.72:15098#3%7C%F0%9F%87%B0%F0%9F%87%B72%20%7C%20%201.5MB/s%7C44%25%7COpenai
@@ -320,4 +319,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.132.188.213:8880?allowInsecure=
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
-### 更新时间 2025-06-14 16:03:00 
+### 更新时间 2025-06-14 16:08:29 
