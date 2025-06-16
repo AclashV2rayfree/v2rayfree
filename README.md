@@ -28,13 +28,12 @@ vless://e362a7d3-0018-4910-a885-ea27a79d00c3@188.34.185.192:18013?security=none&
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.153.197.5:989#%F0%9F%87%B2%F0%9F%87%A9_MD_%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6-%3E%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD
 vless://76ad8213-4617-47eb-92cc-5392b39b45ce@104.26.14.85:80?security=none&type=ws&host=eLOQuENt-caSE.ZUlaIR.orG.&encryption=none&type=ws&path=%2F%3Fed%3D2048&sni=eLOQuENt-caSE.ZUlaIR.orG.&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_1
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@193.108.119.230:8080#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD_2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 trojan://4a3ee276-f50f-46f6-ba4d-13571732ab70@172.67.204.120:443?type=ws&sni=ddcDe.890603.XYz&path=/COp52Dbu3dvwvDWUxOqxq&host=ddcde.890603.xyz#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIVTNaZWJZMi1PTVo5RXJ2c0dfMHpn@38.180.158.38:5555#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_2
 vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=none&type=tcp&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg=@3.39.6.206:9898#end-gfw.com@kr64
-trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@3.39.6.206:6668?allowInsecure=1&peer=baidu.com&sni=baidu.com#end-gfw.com
-vmess://eyJ2IjoiMiIsInBzIjoiZW5kLWdmdy5jb20iLCJhZGQiOiIzLjM5LjYuMjA2IiwicG9ydCI6Njg2OCwiaWQiOiIxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJlbmQtZ2Z3LmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiYmFpZHUuY29tIiwiYWxsb3dJbnNlY3VyZSI6MX0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg=@54.180.247.2:9898#end-gfw.com@kr64
+trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@54.180.247.2:6668?allowInsecure=1&peer=baidu.com&sni=baidu.com#end-gfw.com
+vmess://eyJ2IjoiMiIsInBzIjoiZW5kLWdmdy5jb20iLCJhZGQiOiI1NC4xODAuMjQ3LjIiLCJwb3J0Ijo2ODY4LCJpZCI6IjFhMTdiMTlkLTQ4OTYtNDUzMS1hZjc5LTZlOTFkOGVmODIyOCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImVuZC1nZncuY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiJiYWlkdS5jb20iLCJhbGxvd0luc2VjdXJlIjoxfQ==
 vless://9e85b4eb-f53d-457e-9385-454db3c1dcc1@104.17.148.22:80?type=ws&host=Www.speedtest.net.developsp.ir.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#2%7C%F0%9F%87%A9%F0%9F%87%AA1%20%7C%20%201.5MB/s%7C0%25%7COpenai
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@5.104.75.130:8443?sni=CiR346yL3b.DeRaKhT.iNfO&type=ws&host=CiR346yL3b.DeRaKhT.iNfO&path=fp=chrome&security=tls#2%7C%F0%9F%8C%801-MD%20%7C%20%201.8MB/s%7C44%25%7CYoutube%7CO...
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?sni=wwwspeedtestnetwhiteberinsistomd6625996s16.yozpalangserver.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s16.yozpalangserver.ir&path=fp=chrome&security=tls#2%7C%F0%9F%87%AB%F0%9F%87%B73%20%7C%20%204.1MB/s%7C36%25%7COpenai
@@ -46,7 +45,6 @@ vless://2f3e929e-fe8c-44d5-b96b-6ec0e4b5e569@104.17.148.22:2082?allowInsecure=1&
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.121:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B818%20%7C%20%202.8MB/s%7C0%25%7CNetflix%7COpe...
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.222.79:2096?allowInsecure=1&sni=wwwspeedtestnetwhiteberinsistomd6625996s08.gorgeserver1.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s08.gorgeserver1.ir&path=/security=tls#2%7C%F0%9F%87%AB%F0%9F%87%B76%20%7C%20%201.5MB/s%7C36%25%7COpenai
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.223.79:2096?allowInsecure=1&sni=wwwspeedtestnetwhiteberinsistomd6625996s08.gorgeserver1.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s08.gorgeserver1.ir&path=/security=tls#2%7C%F0%9F%87%AB%F0%9F%87%B77%20%7C%20%203.3MB/s%7C36%25%7COpenai
-vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@59.29.143.247:10894?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B846%20%7C%20%202.3MB/s%7C62%25%7CNetflix%7CDi...
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.197.108.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#2%7C%F0%9F%87%B8%F0%9F%87%AC3%20%7C%20%201.2MB/s%7C30%25%7CDisney%7COpen...
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.11:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B847%20%7C%20%201.0MB/s%7C0%25%7CDisney%7COpen...
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@108.162.198.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#2%7C%F0%9F%87%BA%F0%9F%87%B848%20%7C%20%201.4MB/s%7C0%25%7CDisney%7COpen...
@@ -69,7 +67,7 @@ vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443?sni=yfnl1.xn--4gq
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:443?sni=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&alpn=h3h2&type=ws&host=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&path=/fp=chrome&security=tls#2%7C%F0%9F%8C%806-CY%20%7C%20%204.9MB/s%7C44%25%7COpenai
 hysteria2://dongtaiwang.com@51.159.111.32:31180?insecure=1&sni=apple.com#9%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.73.221:47262?insecure=1&sni=www.bing.com#10%7C%40Selinc
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTJ88J+HsPCfh7cg6Z+p5Zu9fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjIwMy4yMjcuNDQuNzQiLCAicG9ydCI6IDMxOTQ1LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiN2NjYmIxNDctMzhiOC00ZDdjLTkyMDEtMmFkNGFlOGI4NzYxIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMTJ88J+HrfCfh7Ag6aaZ5rivNnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIyMC4yLjgwLjI0MCIsICJwb3J0IjogMjA0NTIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI1MmFiYTNlYi0wYTZmLTRjMmYtMjljNi1kNGIxOGExZDdjM2UifQ==
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.22:38388#12%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@94.140.0.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#14%7CAE_speednode_0001
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@103.245.229.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#14%7CAE_speednode_0002
@@ -329,4 +327,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.132.188.213:8880?allowInsecure=
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
-### 更新时间 2025-06-16 19:00:00 
+### 更新时间 2025-06-16 19:04:29 
