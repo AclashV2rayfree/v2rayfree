@@ -63,10 +63,10 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:443?sni=Ds807Ay6V
 hysteria2://dongtaiwang.com@51.159.111.32:31180?insecure=1&sni=apple.com#9%2C11%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7%20%231
 ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@18.183.222.24:443#12%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNDUwY2VjZmI5M2Y=@kh36v1.pmxiaonan.xyz:14150#12%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
-ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#12%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206MjY0NzI3MzE3ZWY2@kr9v1.3ci.xyz:34808#12%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.26.14:5344#12%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD3%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTIsMTN8576O5Zu9fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIlNzc3Nzc3NXLjIyMjU2MC5YWXoiLCAicG9ydCI6ICI4MCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjM5M2IxMDYxLWQ2MTUtNDU5YS04NjE2LTNmOTQ0N2JkZmY1YSIsICJzbmkiOiAiIiwgImhvc3QiOiAic3Nzc3Nzc3cuMjIyNTYwLnh5eiIsICJwYXRoIjogIi9pWGZpMG1NbVBZcDlVQTZZMzR6V1VrNkpVUSJ9
+ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8774#12%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTIsMTN8576O5Zu9M3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJpSWlpSTguMjIyNTYwLnhZWiIsICJwb3J0IjogIjgwIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMzkzYjEwNjEtZDYxNS00NTlhLTg2MTYtM2Y5NDQ3YmRmZjVhIiwgInNuaSI6ICIiLCAiaG9zdCI6ICJpaWlpaTguMjIyNTYwLnh5eiIsICJwYXRoIjogIi9pWGZpMG1NbVBZcDlVQTZZMzR6V1VrNkpVUSJ9
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@181.214.1.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CAE_speednode_0001
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@94.140.0.247:8880?allowInsecure=1&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CAE_speednode_0002
@@ -290,4 +290,4 @@ vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@102.177.176.247:8880?allowInsecure=
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
-### 更新时间 2025-06-20 16:00:00 
+### 更新时间 2025-06-20 16:04:37 
